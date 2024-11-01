@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Thushar Baby <thusharbaby@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "default_title"
+msgstr "Recherche de produits"
+
+msgid "default_button"
+msgstr "Recherche"
+
+msgid "form_title"
+msgstr "Titre:"
+
+msgid "form_button"
+msgstr "Texte du bouton:"
+
+msgid "form_size"
+msgstr "Taille du champ:"
+
+msgid "form_default"
+msgstr "Valeur par défaut du champ:"
+
+msgid "form_script"
+msgstr "Utilisez les événements onfocus et onblur?"
+
+msgid "form_script_on"
+msgstr "Oui"
+
+msgid "form_script_off"
+msgstr "Non"
+
+msgid "form_focus_color"
+msgstr "Couleur active:"
+
+msgid "form_blur_color"
+msgstr "Couleur inactive:"
+
+msgid "widget_name"
+msgstr "Widget WP Search E-Commerce"
+
+msgid "widget_description"
+msgstr "Widget WP Search E-Commerce"
+
